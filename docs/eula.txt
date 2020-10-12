@@ -1,0 +1,33 @@
+END USER LICENSE FOR Sides Dice Roller
+PLEASE READ THIS DOCUMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+
+If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the Sides Dice Roller App.
+
+1. Terms of License
+This license allows you to use the Sides Dice Roller App on a single device and if you wish to use the App on more than one device, you must license another copy of the App.
+
+2. Restrictions on Use
+You shall not make or distribute copies of the App or transfer the App from one device to another. 
+You shall not decompile, reverse engineer, disassemble, include in other software, or translate the App, or use the App for any commercial purposes. You shall not modify, alter, change or otherwise make any modification to the App or create derivative works based upon the App.
+You shall not rent, lease, resell, sub-license, assign, distribute or otherwise transfer the App or this license. Any attempt to do so shall be void and of no effect. 
+You shall not remove or alter any copyright notices on any and all copies of the App.
+
+3. Ownership
+This license provides you with limited rights to use the App. 
+The Owner retains all ownership, right, title and interest in, to and of the Software and all copies of it. All rights not specifically granted in this license, including domestic and international copyrights, are reserved by the Owner.
+
+4. Proprietary Markings
+The Owner's logos, product names, manuals, documentation, and other support materials are either patented, copyrighted, trademarked, constitute valuable trade secrets (whether or not any portion of them may be copyrighted or patented) or are otherwise proprietary to the Owner.
+You shall not remove or obscure the Owner's copyright, trade mark or other proprietary notices from any of the materials contained in this package or downloaded together with the App.
+
+5. Disclaimer of Warranties and Technical Support
+The App is provided to you "AS IS" basis, without any technical support or warranty of any kind including, without limitation, any warranty or condition of merchantability, fitness for a particular purpose and non-infringement.
+
+6. Limitation of Liability
+In no event shall the Developer be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. The Developer shall have no liability with respect to the content of the App or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information. 
+
+7. The Developer may collect and use information about your usage of the App, including certain types of information from and about your device. The Developer may use this information, as long as it is in a form that does not personally identify you, to measure the use and performance of the App.
+
+8. TERMINATION
+Without prejudice to any other rights, The Developer may terminate this EULA if you fail to comply with the terms and conditions of this EULA.
+In such event, you must destroy all copies of the Sides Dice Roller app in your possession.
